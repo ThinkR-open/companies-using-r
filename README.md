@@ -36,6 +36,10 @@ Feel free to contribute.
 
 + [Prophet — Forecasting at scale](https://facebook.github.io/prophet/)
 
+## Kickstarter 
+
++ [10,000 Successful Projects](https://www.kickstarter.com/blog/10000-successful-projects)
+
 ## Google 
 
 + [Large-Scale Parallel Statistical Forecasting Computations in R](https://research.google.com/pubs/pub37483.html)
@@ -65,6 +69,10 @@ Feel free to contribute.
 + [Microsoft R Open](https://mran.microsoft.com/open)
 
 + [TrueSkill(TM): A Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskilltm-a-bayesian-skill-rating-system)
+
+## Mozilla
+
++ [](https://blog.mozilla.org/metrics/2010/08/23/understanding-private-browsing/)
 
 ## New York Times 
 
