@@ -1,6 +1,6 @@
 # Compagnies Using R
 
-In case you need it, a curated list of testimonies / blogposts / packages from entreprises using #RStats in production and/or for research.
+In case you need it, a curated list of testimonies / blogposts / packages from entreprises, officials and NGO using R in production and/or for research.
 
 Feel free to contribute.
 
@@ -11,6 +11,12 @@ Feel free to contribute.
 ![](https://cdn-images-1.medium.com/max/800/1*AHc5ykZByrNWn30UKsqfXw.png)
 
 + [Using googlesheets and mailR packages in R to automate reporting](https://medium.com/airbnb-engineering/using-googlesheets-and-mailr-packages-in-r-to-automate-reporting-c09579e0377f) 
+
+## City of Chicago 
+
++ [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
+
++ [Behind the Scenes: Foodborne Chicago](http://www.smartchicagocollaborative.org/behind-the-scenes-foodborne-chicago/)
 
 ## Facebook
 
@@ -26,6 +32,10 @@ Feel free to contribute.
 
 + [The Formation of Love](https://www.facebook.com/notes/facebook-data-science/the-formation-of-love/10152064609253859)
 
+### Packages
+
++ [Prophet — Forecasting at scale](https://facebook.github.io/prophet/)
+
 ## Google 
 
 + [Large-Scale Parallel Statistical Forecasting Computations in R](https://research.google.com/pubs/pub37483.html)
@@ -36,6 +46,8 @@ Feel free to contribute.
 
 + [RAPPOR: Privacy-Preserving Reporting Algorithms](https://github.com/google/rappor)
 
++ [Predicting the Present with Google Trends](https://static.googleusercontent.com/media/www.google.com/fr//googleblogs/pdfs/google_predicting_the_present.pdf)
+
 ### Packages 
 
 + [abpackage - An R package for AB testing leveraging pre-period information](https://github.com/google/abpackage)
@@ -44,15 +56,23 @@ Feel free to contribute.
 
 + [MAB —  R package for Multi-Armed Bandit Simulation Study](https://github.com/google/MAB)
 
+## John Deere
+
++ [Order Fulfillment Forecasting at John Deere: How R Facilitates Creativity and Flexibility](https://www.slideshare.net/RevolutionAnalytics/order-fulfillment-forecasting-at-john-deere-how-r-facilitates-creativity-and-flexibility)
+
 ## Microsoft
 
 + [Microsoft R Open](https://mran.microsoft.com/open)
+
++ [TrueSkill(TM): A Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskilltm-a-bayesian-skill-rating-system)
 
 ## New York Times 
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
 
 ## Twitter
+
++ [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
 
 ### Packages 
 
