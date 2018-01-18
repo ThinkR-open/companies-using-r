@@ -32,7 +32,7 @@ Feel free to contribute.
 
 + [The Formation of Love](https://www.facebook.com/notes/facebook-data-science/the-formation-of-love/10152064609253859)
 
-### Packages
+#### Packages
 
 + [Prophet — Forecasting at scale](https://facebook.github.io/prophet/)
 
@@ -52,7 +52,7 @@ Feel free to contribute.
 
 + [Predicting the Present with Google Trends](https://static.googleusercontent.com/media/www.google.com/fr//googleblogs/pdfs/google_predicting_the_present.pdf)
 
-### Packages 
+#### Packages 
 
 + [abpackage - An R package for AB testing leveraging pre-period information](https://github.com/google/abpackage)
 
@@ -82,7 +82,7 @@ Feel free to contribute.
 
 + [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
 
-### Packages 
+#### Packages 
 
 + [AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
 
