@@ -72,7 +72,7 @@ Feel free to contribute.
 
 ## Mozilla
 
-+ [](https://blog.mozilla.org/metrics/2010/08/23/understanding-private-browsing/)
++ [Understanding Private Browsing](https://blog.mozilla.org/metrics/2010/08/23/understanding-private-browsing/)
 
 ## New York Times 
 
