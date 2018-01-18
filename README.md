@@ -12,6 +12,10 @@ Feel free to contribute.
 
 + [Using googlesheets and mailR packages in R to automate reporting](https://medium.com/airbnb-engineering/using-googlesheets-and-mailr-packages-in-r-to-automate-reporting-c09579e0377f) 
 
+## Buzzfeed 
+
++ [Using BuzzFeed’s listicle format to tell stories with maps and charts](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
+
 ## City of Chicago 
 
 + [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
