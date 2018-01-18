@@ -1,6 +1,6 @@
 # Compagnies Using R
 
-In case you need it, a curated list of testimony / blogposts from entreprises using R in production / for research.
+In case you need it, a curated list of testimonies / blogposts / packages from entreprises using #RStats in production and/or for research.
 
 Feel free to contribute.
 
