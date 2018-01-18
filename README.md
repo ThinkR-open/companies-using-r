@@ -1,4 +1,4 @@
-# Compagnies Using R
+# Companies Using R
 
 In case you need it, a curated list of testimonies / blogposts / packages from entreprises, officials and NGO using R in production and/or for research.
 
