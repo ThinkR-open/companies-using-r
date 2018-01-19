@@ -85,6 +85,7 @@ Feel free to contribute.
 ## StackExchange/StackOverflow
 
 + [One year as a Data scientist at SO](http://varianceexplained.org/r/year_data_scientist/)
++ [Text Mining of Stack Overflow Questions](https://stackoverflow.blog/2017/07/06/text-mining-stack-overflow-questions/)
 
 ## Twitter
 
