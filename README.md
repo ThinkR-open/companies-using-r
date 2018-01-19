@@ -82,6 +82,17 @@ Feel free to contribute.
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
 
+## RStudio
+
++ [RStudio IDE](https://github.com/rstudio/rstudio) 
+
+### Packages
+
++ [rmarkdown](https://github.com/rstudio/rmarkdown)
++ [sparklyr](https://github.com/rstudio/sparklyr)
++ [shiny](https://github.com/rstudio/shiny)
++ [bookdown](https://github.com/rstudio/bookdown)
+
 ## StackExchange/StackOverflow
 
 + [One year as a Data scientist at SO](http://varianceexplained.org/r/year_data_scientist/)
