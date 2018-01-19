@@ -91,3 +91,9 @@ Feel free to contribute.
 + [AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
 
 ![](https://github.com/twitter/AnomalyDetection/raw/master/figs/Fig1.png)
+
+## Wikimedia 
+
++ [How we made that net neutrality clickstream diagram](https://blog.wikimedia.org/2018/01/18/on-that-net-neutrality-clickstream-diagram/)
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/73/Net_neutrality_clickstream_%28Nov_2017%29.png)
