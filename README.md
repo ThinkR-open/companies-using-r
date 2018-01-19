@@ -82,6 +82,11 @@ Feel free to contribute.
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
 
+## StackExchange/StackOverflow
+
++ [One year as a Data scientist at SO](http://varianceexplained.org/r/year_data_scientist/)
++ [Text Mining of Stack Overflow Questions](https://stackoverflow.blog/2017/07/06/text-mining-stack-overflow-questions/)
+
 ## Twitter
 
 + [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
