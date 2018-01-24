@@ -12,6 +12,10 @@ Feel free to contribute.
 
 + [Using googlesheets and mailR packages in R to automate reporting](https://medium.com/airbnb-engineering/using-googlesheets-and-mailr-packages-in-r-to-automate-reporting-c09579e0377f) 
 
+## Booking
+
++ [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+
 ## Buzzfeed 
 
 + [Using BuzzFeed’s listicle format to tell stories with maps and charts](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
