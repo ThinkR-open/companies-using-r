@@ -20,6 +20,8 @@ Feel free to contribute.
 
 + [Using BuzzFeed’s listicle format to tell stories with maps and charts](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
 
++ [How Trump’s Tweets Shaped A Year In Politics](https://www.buzzfeed.com/peteraldhous/trump-twitter-wars) - [The R code](https://buzzfeednews.github.io/2018-01-trump-twitter-wars/)
+
 ## City of Chicago 
 
 + [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
