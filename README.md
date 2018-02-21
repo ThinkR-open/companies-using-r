@@ -95,6 +95,10 @@ Feel free to contribute.
 + [One year as a Data scientist at SO](http://varianceexplained.org/r/year_data_scientist/)
 + [Text Mining of Stack Overflow Questions](https://stackoverflow.blog/2017/07/06/text-mining-stack-overflow-questions/)
 
+## Stitchfix 
+
++ [R in pRoduction: theRe be dRagons!](https://multithreaded.stitchfix.com/blog/2017/06/15/beware-r-in-production/)
+
 ## Twitter
 
 + [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
