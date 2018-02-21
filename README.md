@@ -82,6 +82,8 @@ Feel free to contribute.
 
 + [TrueSkill(TM): A Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskilltm-a-bayesian-skill-rating-system)
 
++ [What does Microsoft do with R?](http://blog.revolutionanalytics.com/2018/02/what-does-microsoft-do-with-r.html)
+
 ## Mozilla
 
 + [Understanding Private Browsing](https://blog.mozilla.org/metrics/2010/08/23/understanding-private-browsing/)
