@@ -97,7 +97,11 @@ Feel free to contribute.
 
 ## Stitchfix 
 
-+ [R in pRoduction: theRe be dRagons!](https://multithreaded.stitchfix.com/blog/2017/06/15/beware-r-in-production/)
++ [R in pRoduction: theRe be dRagons!](https://multithreaded.stitchfix.com/blog/2017/06/15/beware-r-in-production/) 
+
++ [Data Exploration with Weight of Evidence and Information Value in R](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
+
++ []()
 
 ## Twitter
 
