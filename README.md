@@ -12,6 +12,8 @@ Feel free to contribute.
 
 + [Using googlesheets and mailR packages in R to automate reporting](https://medium.com/airbnb-engineering/using-googlesheets-and-mailr-packages-in-r-to-automate-reporting-c09579e0377f) 
 
++ [How R helps Airbnb make the most of its data](https://peerj.com/preprints/3182.pdf)
+
 ## Booking
 
 + [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
