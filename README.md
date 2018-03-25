@@ -30,6 +30,10 @@ Feel free to contribute.
 
 + [Behind the Scenes: Foodborne Chicago](http://www.smartchicagocollaborative.org/behind-the-scenes-foodborne-chicago/)
 
+## Ebay
+
++ [How eBay scales R training for a global workforce](https://assets.datacamp.com/groups/case-studies/Ebay.pdf)
+
 ## Facebook
 
 + [Visualizing Friendships](https://www.facebook.com/notes/facebook-engineering/visualizing-friendships/469716398919) 
