@@ -121,6 +121,10 @@ Feel free to contribute.
 
 ![](https://github.com/twitter/AnomalyDetection/raw/master/figs/Fig1.png)
 
+## Uber
+
++ [R at Uber](https://capetown2017.satrdays.org/talks/satRday-2017-van-heerden.pdf)
+
 ## United Kingdom Government 
 
 + [Transforming the process of producing official statistics](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)
