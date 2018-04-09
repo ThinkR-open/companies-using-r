@@ -76,6 +76,10 @@ Feel free to contribute.
 
 + [MAB —  R package for Multi-Armed Bandit Simulation Study](https://github.com/google/MAB)
 
+## Indiana 
+
++ [How the State of Indiana uses R and Azure to forecast employment](http://blog.revolutionanalytics.com/2016/12/state-of-indiana-employment.html)
+
 ## John Deere
 
 + [Order Fulfillment Forecasting at John Deere: How R Facilitates Creativity and Flexibility](https://www.slideshare.net/RevolutionAnalytics/order-fulfillment-forecasting-at-john-deere-how-r-facilitates-creativity-and-flexibility)
@@ -107,8 +111,6 @@ Feel free to contribute.
 
 + [Data Exploration with Weight of Evidence and Information Value in R](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
 
-+ []()
-
 ## Twitter
 
 + [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
@@ -118,6 +120,12 @@ Feel free to contribute.
 + [AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
 
 ![](https://github.com/twitter/AnomalyDetection/raw/master/figs/Fig1.png)
+
+## United Kingdom Government 
+
++ [Transforming the process of producing official statistics](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)
+
++ [Reproducible Analytical Pipelines](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)
 
 ## Wikimedia 
 
