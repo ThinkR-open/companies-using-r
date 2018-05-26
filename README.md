@@ -104,6 +104,7 @@ Feel free to contribute.
 
 + [One year as a Data scientist at SO](http://varianceexplained.org/r/year_data_scientist/)
 + [Text Mining of Stack Overflow Questions](https://stackoverflow.blog/2017/07/06/text-mining-stack-overflow-questions/)
++ [Understanding PCA using Shiny and Stack Overflow data](https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/)
 
 ## Stitchfix 
 
