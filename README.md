@@ -14,6 +14,10 @@ Feel free to contribute.
 
 + [How R helps Airbnb make the most of its data](https://peerj.com/preprints/3182.pdf)
 
+## BBC 
+
++ [Every story in the world has one of theses six basic plots](http://www.bbc.com/culture/story/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots) 
+
 ## Booking
 
 + [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
@@ -137,3 +141,5 @@ Feel free to contribute.
 + [How we made that net neutrality clickstream diagram](https://blog.wikimedia.org/2018/01/18/on-that-net-neutrality-clickstream-diagram/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/73/Net_neutrality_clickstream_%28Nov_2017%29.png)
+
++ [Wikidata Concepts Monitor (WDCM): R in action across Big Wikidata](https://upload.wikimedia.org/wikipedia/commons/7/7c/GMilovanovic_eRum2018.pdf)
