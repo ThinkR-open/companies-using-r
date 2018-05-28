@@ -143,3 +143,9 @@ Feel free to contribute.
 ![](https://upload.wikimedia.org/wikipedia/commons/7/73/Net_neutrality_clickstream_%28Nov_2017%29.png)
 
 + [Wikidata Concepts Monitor (WDCM): R in action across Big Wikidata](https://upload.wikimedia.org/wikipedia/commons/7/7c/GMilovanovic_eRum2018.pdf)
+
+## Worldbank 
+
++ [The 2018 Atlas of Sustainable Development Goals: an all-new visual guide to data and development](http://blogs.worldbank.org/opendata/2018-atlas-sustainable-development-goals-all-new-visual-guide-data-and-development)
+
+![](https://blogs.worldbank.org/opendata/files/opendata/sdg8-10-fig8.png)
