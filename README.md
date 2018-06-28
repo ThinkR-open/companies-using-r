@@ -18,6 +18,10 @@ Feel free to contribute.
 
 + [Every story in the world has one of theses six basic plots](http://www.bbc.com/culture/story/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots) 
 
++ [Nine facts about how long we live](https://www.bbc.com/news/health-43726436)
+
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/16006/production/_101581109_optimised-chart5-nc.png)
+
 ## Booking
 
 + [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
@@ -55,6 +59,10 @@ Feel free to contribute.
 #### Packages
 
 + [Prophet — Forecasting at scale](https://facebook.github.io/prophet/)
+
+## Financial Time 
+
++ [Is Russia-Saudi Arabia the worst World Cup game ever?](https://www.ft.com/content/e4a5012e-6e3e-11e8-92d3-6c13e5c92914)
 
 ## Kickstarter 
 
