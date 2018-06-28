@@ -64,6 +64,8 @@ Feel free to contribute.
 
 + [Is Russia-Saudi Arabia the worst World Cup game ever?](https://www.ft.com/content/e4a5012e-6e3e-11e8-92d3-6c13e5c92914)
 
+![](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F99c56516-6e4a-11e8-92d3-6c13e5c92914?source=next&fit=scale-down&width=700)
+
 ## Kickstarter 
 
 + [10,000 Successful Projects](https://www.kickstarter.com/blog/10000-successful-projects)
