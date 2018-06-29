@@ -98,6 +98,10 @@ Feel free to contribute.
 
 + [Order Fulfillment Forecasting at John Deere: How R Facilitates Creativity and Flexibility](https://www.slideshare.net/RevolutionAnalytics/order-fulfillment-forecasting-at-john-deere-how-r-facilitates-creativity-and-flexibility)
 
+## Le Parisien
+
++[Everything you need to know about yourr national football team](http://m.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2018-ce-qu-il-faut-savoir-sur-la-france-01-12-2017-7426749.php)
+
 ## Microsoft
 
 + [Microsoft R Open](https://mran.microsoft.com/open)
