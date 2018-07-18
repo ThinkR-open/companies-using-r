@@ -118,6 +118,10 @@ Feel free to contribute.
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
 
+## Netflix 
+
++ [Moving from prototype to production in R](http://bryangalvin.com/useR-2018/)
+
 ## StackExchange/StackOverflow
 
 + [One year as a Data scientist at SO](http://varianceexplained.org/r/year_data_scientist/)
