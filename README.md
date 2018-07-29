@@ -44,6 +44,11 @@ Feel free to contribute.
 
 + [How eBay scales R training for a global workforce](https://assets.datacamp.com/groups/case-studies/Ebay.pdf)
 
+
+## The Economist
+
++ [The Big Mac index](https://www.economist.com/news/2018/07/11/the-big-mac-index)
+
 ## Facebook
 
 + [Visualizing Friendships](https://www.facebook.com/notes/facebook-engineering/visualizing-friendships/469716398919) 
