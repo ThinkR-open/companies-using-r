@@ -32,6 +32,8 @@ Feel free to contribute.
 
 + [How Trump’s Tweets Shaped A Year In Politics](https://www.buzzfeed.com/peteraldhous/trump-twitter-wars) - [The R code](https://buzzfeednews.github.io/2018-01-trump-twitter-wars/)
 
++ [How A Booming Population And Climate Change Made California’s Wildfires Worse Than Ever](https://www.buzzfeed.com/peteraldhous/california-wildfires-people-climate)
+
 ## City of Chicago 
 
 + [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
