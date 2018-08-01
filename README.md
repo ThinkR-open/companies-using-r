@@ -141,6 +141,10 @@ Feel free to contribute.
 
 + [Data Exploration with Weight of Evidence and Information Value in R](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
 
+## Süddeutsche Zeitung
+
++ [data journalism with R at Süddeutsche Zeitung](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
+
 ## Twitter
 
 + [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
