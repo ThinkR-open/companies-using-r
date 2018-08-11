@@ -32,6 +32,8 @@ Feel free to contribute.
 
 + [How Trump’s Tweets Shaped A Year In Politics](https://www.buzzfeed.com/peteraldhous/trump-twitter-wars) - [The R code](https://buzzfeednews.github.io/2018-01-trump-twitter-wars/)
 
++ [How A Booming Population And Climate Change Made California’s Wildfires Worse Than Ever](https://www.buzzfeed.com/peteraldhous/california-wildfires-people-climate)
+
 ## City of Chicago 
 
 + [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
@@ -41,6 +43,11 @@ Feel free to contribute.
 ## Ebay
 
 + [How eBay scales R training for a global workforce](https://assets.datacamp.com/groups/case-studies/Ebay.pdf)
+
+
+## The Economist
+
++ [The Big Mac index](https://www.economist.com/news/2018/07/11/the-big-mac-index)
 
 ## Facebook
 
@@ -102,6 +109,8 @@ Feel free to contribute.
 
 + [Everything you need to know about your national football team](http://leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2018-ce-qu-il-faut-savoir-sur-la-france-01-12-2017-7426749.php)
 
+![](http://atelier.leparisien.fr/img/wc2018/PalmaresFrance.jpg)
+
 ## Microsoft
 
 + [Microsoft R Open](https://mran.microsoft.com/open)
@@ -133,6 +142,10 @@ Feel free to contribute.
 + [R in pRoduction: theRe be dRagons!](https://multithreaded.stitchfix.com/blog/2017/06/15/beware-r-in-production/) 
 
 + [Data Exploration with Weight of Evidence and Information Value in R](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
+
+## Süddeutsche Zeitung
+
++ [data journalism with R at Süddeutsche Zeitung](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
 
 ## Twitter
 
