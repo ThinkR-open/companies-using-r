@@ -148,6 +148,10 @@ Feel free to contribute.
 
 + [data journalism with R at Süddeutsche Zeitung](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
 
+## USMA
+
++ [R in USMA](https://www.youtube.com/embed/Npk-cfQVqKo)
+
 ## Twitter
 
 + [The geography of Tweets](https://blog.twitter.com/official/en_us/a/2013/the-geography-of-tweets.html)
