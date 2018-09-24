@@ -14,6 +14,10 @@ Feel free to contribute.
 
 + [How R helps Airbnb make the most of its data](https://peerj.com/preprints/3182.pdf)
 
+## Amazon Web Services
+
++ [Containerized applications with R to identify customers who need additional onboarding assistance and to detect fraud](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Dzidas_Martinatis.pdf)
+
 ## BBC 
 
 + [Every story in the world has one of theses six basic plots](http://www.bbc.com/culture/story/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots) 
@@ -39,6 +43,10 @@ Feel free to contribute.
 + [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
 
 + [Behind the Scenes: Foodborne Chicago](http://www.smartchicagocollaborative.org/behind-the-scenes-foodborne-chicago/)
+
+## Dyson
+
++ [Forecasting the expected sales of new models of vacuum cleaners, hand dryers, and other products](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Dan_Erben.pdf)
 
 ## Ebay
 
@@ -119,9 +127,15 @@ Feel free to contribute.
 
 + [What does Microsoft do with R?](http://blog.revolutionanalytics.com/2018/02/what-does-microsoft-do-with-r.html)
 
++ [Personalised Marketing at Scale with Propensity Models using R and Spark](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Paul_Swiontkowski.pdf)
+
 ## Mozilla
 
 + [Understanding Private Browsing](https://blog.mozilla.org/metrics/2010/08/23/understanding-private-browsing/)
+
+## N Brown Group
+
++ [Analyze online product reviews from customers](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Chris_Billingham.pdf)
 
 ## New York Times 
 
