@@ -137,6 +137,10 @@ Feel free to contribute.
 
 + [Analyze online product reviews from customers](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Chris_Billingham.pdf)
 
+## Nature
+
++ [Bitcoin emissions alone could push global warming above 2°C](https://www.nature.com/articles/s41558-018-0321-8)
+
 ## New York Times 
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
