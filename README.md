@@ -166,6 +166,10 @@ Feel free to contribute.
 
 + [data journalism with R at Süddeutsche Zeitung](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
 
+## T-Mobile 
+
++ [Enterprise Web Services with Neural Networks Using R and TensorFlow](https://opensource.t-mobile.com/blog/posts/r-tensorflow-api/)
+
 ## USMA
 
 + [R in USMA](https://www.youtube.com/embed/Npk-cfQVqKo)
