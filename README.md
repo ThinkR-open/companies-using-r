@@ -46,7 +46,7 @@ Feel free to contribute.
 
 + [Presentation materials from bcgov useR days](https://github.com/bcgov/bcgov-useR)
 
-+ Example repo: [CANSIM-dataviewer](https://github.com/bcgov/CANSIM-dataviewer) with the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database](the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database
++ Example repo: [CANSIM-dataviewer](https://github.com/bcgov/CANSIM-dataviewer) with the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database
 
 <img src="https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png"  width="600" align="center"/>
 
