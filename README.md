@@ -40,11 +40,11 @@ Feel free to contribute.
 
 + Example repo: [CANSIM-dataviewer](https://github.com/bcgov/CANSIM-dataviewer) with the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database](the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database
 
-<img src="https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png"  height="200" align="right"/>
+<img src="https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png"  height="400" align="left"/>
 
 + Example package: [bcmaps](https://github.com/bcgov/bcmaps), an R package of map layers for British Columbia 
 
-<img src="https://github.com/bcgov/bcmaps/blob/master/tools/readme/bcmaps-sticker.png" height="150" align="right"/>
+<img src="https://github.com/bcgov/bcmaps/blob/master/tools/readme/bcmaps-sticker.png" height="250" align="left"/>
 
 
 
