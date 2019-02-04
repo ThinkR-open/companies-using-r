@@ -32,6 +32,16 @@ Feel free to contribute.
 
 + [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
 
+## Province of British Columbia
+
++ [Content (slide decks etc) from presentations related to use of R (#rstats) in the B.C. government ](https://github.com/bcgov/bcgov-rstats-public-presentations)
+
++ [Presentation materials from bcgov useR days](https://github.com/bcgov/bcgov-useR)
+
++ Example repo: [CANSIM-dataviewer](https://github.com/bcgov/CANSIM-dataviewer) with the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database](the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database
+
+![](https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png)
+
 ## Buzzfeed 
 
 + [Using BuzzFeed’s listicle format to tell stories with maps and charts](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
