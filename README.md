@@ -40,7 +40,7 @@ Feel free to contribute.
 
 + Example repo: [CANSIM-dataviewer](https://github.com/bcgov/CANSIM-dataviewer) with the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database](the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database
 
-![](https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png =400x)
+<img src="https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png" style="width:600px;"/>
 
 ## Buzzfeed 
 
