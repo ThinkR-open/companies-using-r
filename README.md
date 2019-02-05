@@ -28,6 +28,10 @@ Feel free to contribute.
 
 + [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 
+#### Packages
+
++ [bbplot - R package that helps create and export ggplot2 charts in the style used by the BBC News data team](https://github.com/bbc/bbplot)
+
 ## Booking
 
 + [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
