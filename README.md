@@ -14,9 +14,13 @@ Feel free to contribute.
 
 + [How R helps Airbnb make the most of its data](https://peerj.com/preprints/3182.pdf)
 
+<HR>
+
 ## Amazon Web Services
 
 + [Containerized applications with R to identify customers who need additional onboarding assistance and to detect fraud](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Dzidas_Martinatis.pdf)
+
+<HR>
 
 ## BBC 
 
@@ -28,9 +32,31 @@ Feel free to contribute.
 
 + [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 
+<HR>
+
 ## Booking
 
 + [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+
+<HR>
+
+## Province of British Columbia
+
++ [Content (slide decks etc) from presentations related to use of R (#rstats) in the B.C. government ](https://github.com/bcgov/bcgov-rstats-public-presentations)
+
++ [Presentation materials from bcgov useR days](https://github.com/bcgov/bcgov-useR)
+
++ Example repo: [CANSIM-dataviewer](https://github.com/bcgov/CANSIM-dataviewer) with the code for the extraction, tabulation, and visualisation of data from Statistics Canada's CANSIM database
+
+<img src="https://github.com/bcgov/CANSIM-dataviewer/blob/master/scr/Mfg_plot.png"  width="600" align="center"/>
+
+#### Packages 
+
++ [bcmaps](https://github.com/bcgov/bcmaps), an R package of map layers for British Columbia 
+
+<img src="https://github.com/bcgov/bcmaps/blob/master/tools/readme/bcmaps-sticker.png" width="250" align="center"/>
+
+<HR>
 
 ## Buzzfeed 
 
@@ -40,24 +66,34 @@ Feel free to contribute.
 
 + [How A Booming Population And Climate Change Made California’s Wildfires Worse Than Ever](https://www.buzzfeed.com/peteraldhous/california-wildfires-people-climate)
 
+<HR>
+
 ## City of Chicago 
 
 + [Forecasting Chicago's Beach Water Quality](http://chicago.github.io/clear-water/)
 
 + [Behind the Scenes: Foodborne Chicago](http://www.smartchicagocollaborative.org/behind-the-scenes-foodborne-chicago/)
 
+<HR>
+
 ## Dyson
 
 + [Forecasting the expected sales of new models of vacuum cleaners, hand dryers, and other products](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Dan_Erben.pdf)
+
+<HR>
 
 ## Ebay
 
 + [How eBay scales R training for a global workforce](https://assets.datacamp.com/groups/case-studies/Ebay.pdf)
 
 
+<HR>
+
 ## The Economist
 
 + [The Big Mac index](https://www.economist.com/news/2018/07/11/the-big-mac-index)
+
+<HR>
 
 ## Facebook
 
@@ -77,15 +113,21 @@ Feel free to contribute.
 
 + [Prophet — Forecasting at scale](https://facebook.github.io/prophet/)
 
+<HR>
+
 ## Financial Time 
 
 + [Is Russia-Saudi Arabia the worst World Cup game ever?](https://www.ft.com/content/e4a5012e-6e3e-11e8-92d3-6c13e5c92914)
 
 ![](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F99c56516-6e4a-11e8-92d3-6c13e5c92914?source=next&fit=scale-down&width=700)
 
+<HR>
+
 ## Kickstarter 
 
 + [10,000 Successful Projects](https://www.kickstarter.com/blog/10000-successful-projects)
+
+<HR>
 
 ## Google 
 
@@ -107,19 +149,27 @@ Feel free to contribute.
 
 + [MAB —  R package for Multi-Armed Bandit Simulation Study](https://github.com/google/MAB)
 
+<HR>
+
 ## Indiana 
 
 + [How the State of Indiana uses R and Azure to forecast employment](http://blog.revolutionanalytics.com/2016/12/state-of-indiana-employment.html)
 
+<HR>
+
 ## John Deere
 
 + [Order Fulfillment Forecasting at John Deere: How R Facilitates Creativity and Flexibility](https://www.slideshare.net/RevolutionAnalytics/order-fulfillment-forecasting-at-john-deere-how-r-facilitates-creativity-and-flexibility)
+
+<HR>
 
 ## Le Parisien
 
 + [Everything you need to know about your national football team](http://leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2018-ce-qu-il-faut-savoir-sur-la-france-01-12-2017-7426749.php)
 
 ![](http://atelier.leparisien.fr/img/wc2018/PalmaresFrance.jpg)
+
+<HR>
 
 ## Microsoft
 
@@ -131,25 +181,38 @@ Feel free to contribute.
 
 + [Personalised Marketing at Scale with Propensity Models using R and Spark](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Paul_Swiontkowski.pdf)
 
+<HR>
+
 ## Mozilla
 
 + [Understanding Private Browsing](https://blog.mozilla.org/metrics/2010/08/23/understanding-private-browsing/)
+
+
+<HR>
 
 ## N Brown Group
 
 + [Analyze online product reviews from customers](https://earlconf.com/_downloads/london_speakers/EARL2018_-_London_-_Chris_Billingham.pdf)
 
+<HR>
+
 ## Nature
 
 + [Bitcoin emissions alone could push global warming above 2°C](https://www.nature.com/articles/s41558-018-0321-8)
+
+<HR>
 
 ## New York Times 
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
 
+<HR>
+
 ## Netflix 
 
 + [Moving from prototype to production in R](http://bryangalvin.com/useR-2018/)
+
+<HR>
 
 ## StackExchange/StackOverflow
 
@@ -158,23 +221,33 @@ Feel free to contribute.
 + [Understanding PCA using Shiny and Stack Overflow data](https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/)
 + [ne year as a Data scientist at Stack Overflow - Julia Silge](https://juliasilge.com/blog/one-year-at-stack/)
 
+<HR>
+
 ## Stitchfix 
 
 + [R in pRoduction: theRe be dRagons!](https://multithreaded.stitchfix.com/blog/2017/06/15/beware-r-in-production/) 
 
 + [Data Exploration with Weight of Evidence and Information Value in R](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
 
+<HR>
+
 ## Süddeutsche Zeitung
 
 + [data journalism with R at Süddeutsche Zeitung](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
+
+<HR>
 
 ## T-Mobile 
 
 + [Enterprise Web Services with Neural Networks Using R and TensorFlow](https://opensource.t-mobile.com/blog/posts/r-tensorflow-api/)
 
+<HR>
+
 ## USMA
 
 + [R in USMA](https://www.youtube.com/embed/Npk-cfQVqKo)
+
+<HR>
 
 ## Twitter
 
@@ -186,15 +259,21 @@ Feel free to contribute.
 
 ![](https://github.com/twitter/AnomalyDetection/raw/master/figs/Fig1.png)
 
+<HR>
+
 ## Uber
 
 + [R at Uber](https://capetown2017.satrdays.org/talks/satRday-2017-van-heerden.pdf)
+
+<HR>
 
 ## United Kingdom Government 
 
 + [Transforming the process of producing official statistics](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)
 
 + [Reproducible Analytical Pipelines](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)
+
+<HR>
 
 ## Wikimedia 
 
@@ -203,6 +282,8 @@ Feel free to contribute.
 ![](https://upload.wikimedia.org/wikipedia/commons/7/73/Net_neutrality_clickstream_%28Nov_2017%29.png)
 
 + [Wikidata Concepts Monitor (WDCM): R in action across Big Wikidata](https://upload.wikimedia.org/wikipedia/commons/7/7c/GMilovanovic_eRum2018.pdf)
+
+<HR>
 
 ## Worldbank 
 
