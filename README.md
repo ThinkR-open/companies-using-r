@@ -32,6 +32,10 @@ Feel free to contribute.
 
 + [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 
+#### Cookbook 
+
+! [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
+
 #### Packages
 
 + [bbplot - R package that helps create and export ggplot2 charts in the style used by the BBC News data team](https://github.com/bbc/bbplot)
