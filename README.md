@@ -284,6 +284,18 @@ Feel free to contribute.
 
 <HR>
 
+## Uptake
+
++ [Data scientists making their code public? So crazy it just might work](https://www.uptake.com/blog/data-scientists-making-their-code-public-so-crazy-it-just-might-work)
++ [cran-server: a lightweight, open-source way to run a custom R package server](https://github.com/UptakeOpenSource/cran-server)
++ [pkgnet: R package to analyze R packages with graph theory](https://github.com/UptakeOpenSource/pkgnet)
++ [updraft: parallelize processing DAGs in pure R code](https://github.com/UptakeOpenSource/updraft)
++ [uptasticsearch: an R data frame client for Elasticsearch](https://github.com/UptakeOpenSource/uptasticsearch)
+
+![](https://raw.githubusercontent.com/UptakeOpenSource/pkgnet/master/readme_figures/demo.gif)
+
+<HR>
+
 ## Wikimedia 
 
 + [How we made that net neutrality clickstream diagram](https://blog.wikimedia.org/2018/01/18/on-that-net-neutrality-clickstream-diagram/)
