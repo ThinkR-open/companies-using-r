@@ -250,6 +250,10 @@ Feel free to contribute.
 
 + [Enterprise Web Services with Neural Networks Using R and TensorFlow](https://opensource.t-mobile.com/blog/posts/r-tensorflow-api/)
 
++ [R can API and So Can You!](https://medium.com/tmobile-tech/r-can-api-c184951a24a3)
+
++ [Using docker to deploy an R plumber API](https://medium.com/tmobile-tech/using-docker-to-deploy-an-r-plumber-api-863ccf91516d)
+
 <HR>
 
 ## USMA
