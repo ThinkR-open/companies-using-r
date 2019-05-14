@@ -219,7 +219,7 @@ Feel free to contribute.
 
 ## Netflix 
 
-+ [Moving from prototype to production in R](http://bryangalvin.com/useR-2018/)
++ [Moving from prototype to production in R](http://bryangal.vin/useR-2018/)
 
 <HR>
 
