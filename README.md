@@ -223,6 +223,14 @@ Feel free to contribute.
 
 <HR>
 
+## NHS-R Community
+
++ [The NHS-R Community exists to support the all NHS organisations in R](https://nhsrcommunity.com/)
+
+<br>
+
+
+
 ## StackExchange/StackOverflow
 
 + [One year as a Data scientist at SO - David Robinson](http://varianceexplained.org/r/year_data_scientist/)
