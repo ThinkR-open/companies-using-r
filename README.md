@@ -280,6 +280,16 @@ Feel free to contribute.
 
 <HR>
 
+## UNHCR 
+
++ [UNHCR R data Package](https://github.com/unhcr/unhcrdatapackage)
+
++ [A package for survey data crunching](https://unhcr.github.io/koboloadeR/docs/)
+
++ [Initiated a community of data analysis with R: humanitaRian useR group](https://humanitarian-user-group.github.io/)
+
+<HR>
+
 ## United Kingdom Government 
 
 + [Transforming the process of producing official statistics](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)
