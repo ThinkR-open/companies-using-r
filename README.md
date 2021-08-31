@@ -222,6 +222,16 @@ Feel free to contribute.
 + [Moving from prototype to production in R](http://bryangalvin.com/useR-2018/)
 
 <HR>
+  
+## Pinnacle 
+
++ [Using ‘R’ for betting analysis](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/r-betting-analysis/N7Y2W3F87V489ZDC)
+
++ [How R is driving sports betting innovation](https://www.pinnacle.com/en/betting-articles/educational/r-betting-innovation/A642DKMEXWMMKU6B)
+
+<HR>
+  
+  
 
 ## StackExchange/StackOverflow
 
