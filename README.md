@@ -211,6 +211,38 @@ Feel free to contribute.
 
 <HR>
 
+## Netpeak Group 
+
++ [Migrating from AdWords API to Google Ads API. A Comprehensive Guideline](https://netpeak.net/blog/migrating-from-adwords-api-to-google-ads-api-a-comprehensive-guideline/)
+
++ [How to Extract Marketing Campaign Statistics from Facebook API Using R](https://netpeak.net/blog/how-to-extract-marketing-campaign-statistics-from-facebook-api-using-r/)
+
++ [How we implemented BI analytics in contextual advertising department](https://netpeak.net/blog/how-we-implemented-bi-analytics-in-contextual-advertising-department/)
+
+#### Packages 
+  
++ [getProxy - Get Free Proxy IP and Port](https://github.com/cran/getProxy)
+  
++ [rappsflyer - Work with AppsFlyer API](https://github.com/cran/rappsflyer)
+  
++ [rfacebookstat - Load Data from Facebook Marketing API](https://github.com/cran/rfacebookstat)
+  
++ [rgoogleads - Loading Data from Google Ads API](https://github.com/cran/rgoogleads)
+  
++ [rmytarget - Load Data from MyTarget API v2](https://github.com/cran/rmytarget)
+  
++ [rvkstat - R Interface to vk.com API](https://github.com/cran/rvkstat)
+  
++ [ryandexdirect - Load Data From Yandex Direct](https://github.com/cran/ryandexdirect)
+  
++ [rym - R Interface to Yandex Metrica API](https://github.com/cran/rym)
+  
++ [timeperiodsR - Simple Definition Of Time Intervals](https://github.com/cran/timeperiodsR)
+
++ [serpstatr - Serpstat API Wrapper](https://github.com/cran/serpstatr)
+
+<HR>
+
 ## New York Times 
 
 + [The Upshot — A New York Times website with analysis and data visualizations about politics, policy and everyday life.](https://github.com/TheUpshot)
