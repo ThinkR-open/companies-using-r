@@ -254,22 +254,29 @@ Feel free to contribute.
 + [Moving from prototype to production in R](http://bryangal.vin/useR-2018/)
 
 <HR>
-  
-## Pinnacle 
+
+## NHS-R Community
+
++ [The NHS-R Community exists to support the all NHS organisations in R](https://nhsrcommunity.com/)
+
+<HR>
+
+## Rx Studio
+
++ [Rx Studio's cloud infrastructure (NHS-R conference 2020)](https://rx.studio/blog/rx-studio-cloud-infrastructure/)
++ Using R to Empower a Precision Dosing Web Application (useR! 2021): [slides](https://bit.ly/user2021-rx-studio), [video recording](https://www.youtube.com/watch?v=6bwnVtQpHcw)
+
+<HR>
+
+## Pinnacle
 
 + [Using ‘R’ for betting analysis](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/r-betting-analysis/N7Y2W3F87V489ZDC)
 
 + [How R is driving sports betting innovation](https://www.pinnacle.com/en/betting-articles/educational/r-betting-innovation/A642DKMEXWMMKU6B)
 
 <HR>
-  
-  
 
-## NHS-R Community
 
-+ [The NHS-R Community exists to support the all NHS organisations in R](https://nhsrcommunity.com/)
-
-<br>
 
 
 
